@@ -18,11 +18,8 @@ asar = (dat["Asr"])
 magrib = (dat["Maghrib"])
 isya = (dat["Isha"])
 
-echo "************************************************"
-print ("Info Time "+str(time.strftime('%a, %d %B %Y | %H:%M:%S')))
-print("Jadwal Sholat Hari Ini Di "+location)
-echo "************************************************"
-echo " "
+print ("Info Time: "+str(time.strftime('%a, %d %B %Y | "Date:" %H:%M:%S')))
+print("Jadwal Sholat Update Hari Ini Di "+location)
 print ("Subuh   : "+subuh+"\n")
 print ("Dzuhur  : "+duhur+"\n")
 print ("Ashar   : "+asar+"\n")
