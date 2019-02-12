@@ -18,7 +18,7 @@ asar = (dat["Asr"])
 magrib = (dat["Maghrib"])
 isya = (dat["Isha"])
 
-print ("Info Time: "+str(time.strftime('%a, %d %B %Y | "Date:" %H:%M:%S')))
+print ("Time Info: "+str(time.strftime('%a, %d %B %Y | %H:%M:%S')) "WIB")
 print("Jadwal Sholat Update Hari Ini Di "+location)
 print ("Subuh   : "+subuh+"\n")
 print ("Dzuhur  : "+duhur+"\n")
