@@ -12,11 +12,11 @@ pkg install git
 <br>
 pkg install python
 <br>
-git clone https://github.com/kumpul4semut/yuksholat.git
+git clone https://github.com/adminssh58/sholat.git
 <br>
 cd yuksholat
 <br>
-python yuksholat.py
+python sholat.py
 <br>
-
-![alt text](https://raw.githubusercontent.com/adminssh58/sholat/master/yuksholat.jpg)
+<br>
+![alt text](https://raw.githubusercontent.com/adminssh58/sholat/master/sholat.jpg)
