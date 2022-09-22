@@ -3,20 +3,13 @@
 <br>
 
 # Use On Termux Andorid
-<br>
-pkg install pip
-<br>
-pip install requests
-<br>
-pkg install git
-<br>
-pkg install python
-<br>
-git clone https://github.com/adminssh58/sholat.git
-<br>
-cd sholat
-<br>
-python sholat.py
+* pkg update -y && pkg upgrade -y
+* pkg install pip
+* pip install requests
+* pkg install git
+* pkg install python
+* git clone https://github.com/adminssh58/sholat.git
+* cd sholat
+* python sholat.py
 <br>
 <br>
-![alt text](https://raw.githubusercontent.com/adminssh58/sholat/master/sholat.jpg)
