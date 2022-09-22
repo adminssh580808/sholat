@@ -14,7 +14,7 @@ pkg install python
 <br>
 git clone https://github.com/adminssh58/sholat.git
 <br>
-cd yuksholat
+cd sholat
 <br>
 python sholat.py
 <br>
